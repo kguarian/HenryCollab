@@ -1,0 +1,41 @@
+.edittxt {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+}
+.editcomment {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+.editgeneral {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+}
+.interests {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.editinfo {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666;
+	line-height:23px;
+}
+.profilename {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #88a8d9;
+	line-height:23px;
+}
+.profiletab {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #022e5d;
+	line-height:23px;
+}

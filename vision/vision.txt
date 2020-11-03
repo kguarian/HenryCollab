@@ -1,0 +1,10 @@
+Beautiful soup - Python library for scraping websites
+Selenium - human interface
+
+Website with data -> scrape data (mimic human) -> format data -> store it somehow (sorting, quick lookup, etc.) -> shoot out recipe containing ingredients
+[Selenium, Beautiful soup                     ]    [CSV from Python]
+
+in my fridge: alien eyeballs.
+
+What is output if can't find recipe with that:
+    "sorry" message.

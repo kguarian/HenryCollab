@@ -1,0 +1,199 @@
+/* CSS Document for fundcraft new website*/
+body	{
+    background-image:url(images-new/top.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+	/*background-attachment:fixed;*/
+	padding-top:0;
+    padding-bottom:0;
+    padding-left:0;
+    padding-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:0;
+    margin-right:0;
+}
+a:link {color:  #015A9C; text-decoration: none;	font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+a:active {color: #015A9C; text-decoration: none; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+a:visited {color: #015A9C; text-decoration: none; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+a:hover {
+color: #A0B842;
+text-decoration:none; 
+font-family:Verdana, Arial, Helvetica, sans-serif; 
+font-size: 11px;
+ }
+/*FOOTER LINKS*/
+a.footer-links:link,a.footer-links:active,a.footer-links:visited	{
+    color:#A0B842;
+	font-size:11px;
+	font-weight: bold;
+}
+a.footer-links:hover {
+    color:#015A9C; 
+	border-bottom: 3px dotted #015A9C;
+	font-size: 11px;
+	font-weight: bold;
+}
+/*SEARCH BY LINKS*/
+a.searchby-links:link,a.searchby-links:active,a.searchby-links:visited	 {
+	font:normal 13px tahoma,verdana, arial, helvetica, sans-serif;
+	color:#015A9C;
+	font-weight: bold;	
+}
+a.searchby-links:hover {
+	color:#A0B842;
+	text-decoration: underline;
+	font:normal 13px tahoma,verdana, arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+/*FAV LINKS*/
+a.fav-links:link,a.fav-links:active,a.fav-links:visited	 {
+	font:normal 10px tahoma,verdana, arial, helvetica, sans-serif;
+	color:#A0B842;
+	font-weight: bold;	
+}
+a.fav-links:hover {
+	color:#015A9C;
+	text-decoration: underline;
+	font:normal 10px tahoma,verdana, arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+/*LOGIN LINK*/
+a.login-links:link	{color:#FFFFFF;
+	font-size:11px;
+	font-weight: bold;
+}
+a.login-links:active	{color:#FFFFFF;
+	font-size:11px;
+	font-weight: bold;
+}
+a.login-links:visited	{color:#FFFFFF;
+	font-size:11px;
+	font-weight: bold;
+}
+a.login-links:hover {color:#A0B842; 
+	border-bottom: 3px dotted #A0B842;
+	font-size: 11px;
+	font-weight: bold;
+}
+/* bodycopy text */
+.H1 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 13px; line-height: 140%;
+	color: #666;
+
+}
+.fav1 {
+	font:normal 10px tahoma,verdana, arial, helvetica, sans-serif;
+	color:#A0B842;
+	font-weight: bold;
+}
+.copy-software {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px; /*line-height: 160%;*/
+	color: #666;
+
+}
+.copy-software2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px; /*line-height: 160%;*/
+	color: #666;
+
+}
+/* header text */
+.H2 {
+    font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 18px; /*old 16px*/
+	color: #015A9C;
+	font-weight: bold;
+}
+.black {
+    font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 15px; /*old 16px*/
+	color: #000;
+	font-weight: bold;
+}
+.green {
+	font:normal 12px tahoma,verdana, arial, helvetica, sans-serif;
+	color:#6b6d00;
+	font-weight: bold;
+}
+.red {
+	font:normal 11px tahoma,verdana, arial, helvetica, sans-serif;
+	color:#FF0000;
+	font-weight: bold;
+}
+.promobooks {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; /*old 16px*/
+	color: #015A9C;
+	font-weight: bold;
+}
+.promobooks2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px; /*old 16px*/
+	color: #015A9C;
+}
+.featureTitle
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; /*old 16px*/
+	color: #015A9C;
+	font-weight: bold;
+}
+
+/* subhead text */
+.H3 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 14px;
+	color: #015A9C;
+	/*line-height:20px;*/
+}
+/* marker text */
+.H4 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 13px;
+	color: #666;
+	font-weight: bold;
+}
+/* footer text */
+.H5 {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666;
+	line-height:20px;
+}
+/* top text */
+.H6 {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fff;
+}
+.H7 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 12px; /*line-height: 160%;*/
+	color: #202020;
+
+}
+.H8 {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px; /*line-height: 160%;*/
+	color: #FFF;
+	font-weight: bold;
+}
+.H9 {
+    font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 13px; 
+	color: #015A9C;
+	font-weight: bold;
+}
+.H10 {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+}
+.H11 {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666;
+}
